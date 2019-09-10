@@ -1,3 +1,3 @@
 # AStar-ALT
 
-Реализован алгоритм AStar, с использованием эвристики ALT. Landmarks выбираются случайно. Время работы протестировано на картах Нью-Йорка и Сан-Франциско.
+Implemented A* algorithm, using ALT heuristics. Landmarks are chosen randomly. Working time is measured on the road maps of New York and San Francisco.
